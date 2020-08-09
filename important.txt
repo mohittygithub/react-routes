@@ -1,0 +1,5 @@
+1.after cloning or downloading a react project from github etc run this command to setup dependencies-
+npm audit fix
+
+2.To check the errors in the project-
+npm audit
